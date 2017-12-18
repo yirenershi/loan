@@ -11,7 +11,7 @@ line 3 is interest rate of year
 ## 3. the result save in <debj.txt> and <debx.txt>
 
 # 贷款计算器
-这是一个用来计算贷款还款额的小工具。  
+这是一个用来计算贷款还款额的小工具。    
 和支付宝内部集成的房贷计算器相比，可以设置还款时间为任意年限（房贷计算器不可以）。
 ## 1、创建一个配置文件《cfg.txt》
 第一行是贷款总额  
