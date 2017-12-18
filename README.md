@@ -1,6 +1,6 @@
 # load
 A small tool used to calculate load interest. <br>
-This ia a standar C project.
+This ia a standard C project.
 
 ## 1. make a config file
 line 1 is load ceiling <br> 
