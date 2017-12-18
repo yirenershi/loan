@@ -19,6 +19,6 @@ line 3 is interest rate of year <br>
 第三行是年利率 <br>
 ## 2、运行程序，需要和配置文件在同一目录
 ## 3、结果保存在《debj.txt》和《debx.txt》中
-debj.txt 等额本金<br>
-debx.txt 等额本息<br>
+debj.txt 等额本金 <br>
+debx.txt 等额本息 <br>
 
